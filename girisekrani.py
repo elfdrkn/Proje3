@@ -42,7 +42,7 @@ class LoginWindow(QMainWindow):
             QMessageBox.warning(self, "Hata", "Geçersiz kullanıcı adı ve/veya şifre girdiniz!")  
 
     def open_ticari_window(self):
-        QMessageBox.information(self, "Giriş başarılı! \nAna Programdasınız.")
+        QMessageBox.information(self, "Program", "Giriş başarılı! \nAna Programdasınız.")
         self.close()  #giriş penceresini kapatır
         self.ticari_window = ticari.TicariWindow()
         self.ticari_window.show()
