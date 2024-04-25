@@ -13,6 +13,7 @@ Belirlediğim kullanıcı adı ve şifreyi (admin / admin) yazarak giriş yapabi
 
 ## Hata:
 Eğer giriş işlemi başarısız olursa tekrar deneyebilirsiniz.
+
 ![6](https://github.com/elfdrkn/Proje3/assets/54261034/bdb18419-676d-451a-bf0a-c92503e5f6b9)
 
 ## Başarılı:
@@ -22,9 +23,11 @@ Eğer şifre ve kullanıcı adı doğru ise sizi bu yönlendirme karşılayacakt
 
 ## Inch Çevirici:
 ikinci ekran geldiğinde inch çevirici uygulaması başlayacaktır. 
+
 ![4](https://github.com/elfdrkn/Proje3/assets/54261034/968f7739-6cb2-4cf7-b880-92ac25f0e604)
 
 ## Hadi Çevirelim:
 Değeri girdiğinizde uygulamamız size cm --> inch değerini gösterecektir.
+
 ![5](https://github.com/elfdrkn/Proje3/assets/54261034/ed29d601-a5d2-4cbb-ad84-606367af8bae)
 
