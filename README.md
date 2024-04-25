@@ -1,5 +1,5 @@
 
-# **_Merhaba, ilk masaüstü uygulamama hoşgeldiniz!_**
+## **_Merhaba, ilk masaüstü uygulamama hoşgeldiniz!_**
 
  ### *Ana Menü:*
 Uygulamayı çalıştırdığınızda sizi bu giriş ekranı karşılayacaktır.
